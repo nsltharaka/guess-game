@@ -10,5 +10,5 @@ a very simple implementation of number guessing game using Go.
 ```
 $ git clone https://github.com/nsltharaka/guess-game.git
 $ cd guess-game
-$ go run .
+$ go run . --limit 100
 ```
